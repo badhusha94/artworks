@@ -1,3 +1,4 @@
-django <=3.0.7
-mysqlclient <=1.4.6
+mysqlclient
+django
+django-cors-headers
 djangorestframework
